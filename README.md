@@ -25,7 +25,7 @@ AeroVia Express es una página web de reserva de viajes desarrollada con Bootstr
 
 
 ## Uso de Inteligencia Artificial
-En el desarrollo de este proyecto se utilizó la IA de Cursor para:
+En el desarrollo de este proyecto se utilizó la IA de Cursor con Claude Sonnet 3.7 para:
 
 1. **Estructuración del Código**
    - Organización semántica del HTML
